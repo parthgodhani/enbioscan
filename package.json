@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-enbioscan",
+  "version": "0.0.1",
+  "description": "en bio scan android ionic plugin",
+  "cordova": {
+    "id": "cordova-plugin-enbioscan",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthgodhani/enbioscan.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Parth Godhani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parthgodhani/enbioscan/issues"
+  },
+  "homepage": "https://github.com/parthgodhani/enbioscan#readme"
+}
