@@ -10,7 +10,7 @@ import org.json.JSONObject;
 /**
  * This class echoes a string called from JavaScript.
  */
-public class enbioscan extends CordovaPlugin {
+public class Enbioscan extends CordovaPlugin {
  
 
     @Override

@@ -8,11 +8,11 @@
         </js-module>
         <platform name="android">
                 <config-file parent="/*" target="res/xml/config.xml">
-                        <feature name="enbioscan">
-                                <param name="android-package" value="cordova.plugin.enbioscan.enbioscan" />
+                        <feature name="Enbioscan">
+                                <param name="android-package" value="cordova.plugin.Enbioscan.Enbioscan" />
                         </feature>
                 </config-file>
                 <config-file parent="/*" target="AndroidManifest.xml"></config-file>
-                <source-file src="src/android/enbioscan.java" target-dir="src/main/java/cordova/plugin/enbioscan/enbioscan" />
+                <source-file src="src/android/Enbioscan.java" target-dir="src/main/java/cordova/plugin/Enbioscan/Enbioscan" />
         </platform>
 </plugin>
